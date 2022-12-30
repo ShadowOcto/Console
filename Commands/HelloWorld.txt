@@ -1,2 +1,2 @@
 echo Hello World!
-exit /b 0
+Console.bat

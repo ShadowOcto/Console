@@ -3,4 +3,4 @@ curl -s "ipinfo.io/%ip%?token=f415bbd9a71091" >> %ip%.txt
 curl -s "ipinfo.io/%ip%?token=f415bbd9a71091" | clip
 curl -s "ipinfo.io/%ip%?token=f415bbd9a71091"
 echo The infomation has been copied to your clipboard and logged in a file.
-exit /b 0
+Console.bat
