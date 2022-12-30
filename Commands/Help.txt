@@ -1,0 +1,6 @@
+echo -COMMANDS-
+echo Help (Shows this help menu)
+echo HelloWorld (Sends "Hello World!" into the console)
+echo Ping (Pings an ip)
+echo ScanIP (Get infomation on an ip adress)
+exit /b 0

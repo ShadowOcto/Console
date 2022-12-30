@@ -1,0 +1,3 @@
+set /p ip="Ping: Enter IP>"
+ping %ip%
+exit /b 0
